@@ -48,14 +48,19 @@
 </h3>
  
 <p >WhatShouldIEat is a web app that helps people decide what to cook, finding recipes using ingredients they already have in the fridge or pantry. You can search by multiple ingredients and the first results are the ones with more matches. The user can also save recipes as favorites, rate the ones he already cooked, or even contribute to the community by posting his own recipes.</p>
+<a href="https://github.com/giocapeli/recipeApp-frontend" target="_blank">Frontend Repository</a></br>
+<a href="https://github.com/giocapeli/recipeApp-backend" target="_blank">Backend Repository</a>
   </br> </br> </br> </br> </br>
 
 <h3>
   iXcuse
 </h3>
 <p>Are you out of excuses? iXcuse is an app that helps you to make up excuses. You can get an excuse by type of occasion, like work, school, family event, missing appointment and more. You can also log in and keep track of your excuses and the app will be sure you are not using the same excuse twice for the same person or occasion. </p>
+<a href="https://github.com/fernandofernandessimao/ixcuse" target="_blank">Frontend Repository</a></br>
+<a href="https://github.com/fernandofernandessimao/ixcuse-backend" target="_blank">Backend Repository</a>
 <hr>
 <h3  align="center">📪 Reach Me 📪</h3>
-<p align="center"><img src="https://img.shields.io/badge/gmail%20-%23D0502A.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/linkedin%20-%232B5DE1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="mailto:capeli.andreas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail%20-%23D0502A.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/giovannicapeli/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%232B5DE1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
