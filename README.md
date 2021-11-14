@@ -41,10 +41,15 @@
 <hr>
 
 <h3 align="center">Last Projects</h3>
+
+<img align="right" height="300px" src="https://i.ibb.co/jg6ddKm/usesmall.gif">
 <h3>
   What Should I Eat?
 </h3>
-<p>WhatShouldIEat is a web app that helps people decide what to cook, finding recipes using ingredients they already have in the fridge or pantry. You can search by multiple ingredients and the first results are the ones with more matches. The user can also save recipes as favorites, rate the ones he already cooked, or even contribute to the community by posting his own recipes.</p>
+ 
+<p >WhatShouldIEat is a web app that helps people decide what to cook, finding recipes using ingredients they already have in the fridge or pantry. You can search by multiple ingredients and the first results are the ones with more matches. The user can also save recipes as favorites, rate the ones he already cooked, or even contribute to the community by posting his own recipes.</p>
+  </br> </br> </br> </br> </br>
+
 <h3>
   iXcuse
 </h3>
