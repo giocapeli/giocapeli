@@ -48,6 +48,8 @@
 </h3>
  
 <p >WhatShouldIEat is a web app that helps people decide what to cook, finding recipes using ingredients they already have in the fridge or pantry. You can search by multiple ingredients and the first results are the ones with more matches. The user can also save recipes as favorites, rate the ones he already cooked, or even contribute to the community by posting his own recipes.</p>
+
+<a href="https://whatshouldicook.netlify.app/" target="_blank">Deployed MVP</a></br>
 <a href="https://github.com/giocapeli/recipeApp-frontend" target="_blank">Frontend Repository</a></br>
 <a href="https://github.com/giocapeli/recipeApp-backend" target="_blank">Backend Repository</a>
   </br> </br> </br> </br> </br>
