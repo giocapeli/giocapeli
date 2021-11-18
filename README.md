@@ -1,12 +1,5 @@
-<!---
-<div align="center">
-  <img src="https://i.ibb.co/Wvfh514/clifs.jpg" alt="header"/>
-</div>
--->
-
-
 <h2 align="center"> 👋 Hi there, I am Giovanni!</h2>
-<p align="center">  <img src="https://img.shields.io/badge/open to work%20-%23D69500.svg?&style=for-the-badge&logo=work&logoColor=white" /></p>
+<a href="https://www.linkedin.com/in/giovannicapeli/" target="_blank"><p align="center" >  <img src="https://img.shields.io/badge/open to work%20-%23D69500.svg?&style=for-the-badge&logo=work&logoColor=white" /></p></a>
 <p align="center">
   <samp>I' m a brazilian living in the Netherlands that loves photography, cooking, binge-watching Netflix series and travel planning. I see myself as a creative and self-driven developer ready to accept new challenges and contribute to build up and bring to life amazing projects and ideas!
   </samp>
