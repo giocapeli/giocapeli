@@ -8,6 +8,7 @@
 <h3 align="center">💻 Languages, libraries and frameworks: 💻</h3>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/python%20-%2300B9D6.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript%20-%23D09E2A.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20-%2300AEFF.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/REDUX%20-%23AA00FF.svg?&style=for-the-badge&logo=redux&logoColor=white" />
@@ -28,12 +29,23 @@
 <img src="https://img.shields.io/badge/typescript%20-%232B5DE1.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react native%20-%2300AEFF.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL%20-%23CD00D6.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/python%20-%2300B9D6.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 <hr>
 
 <h3 align="center">Last Projects</h3>
+
+<img align="right" height="300px" src="https://i.ibb.co/ZK0DTJ5/chatgptchat.gif">
+
+<h3>
+  ChatGPT Simulated Chat
+</h3>
+ 
+<p >I created a simulation of a webchat app using Python (Flask) and HTML/CSS (with these, I even got some help from ChatGPT to start the files) to test how would be a conversation between two ChatGPTs, how creative they could be, and if the chat would sound like a real conversation. You can pick a starting topic, define the type of conversation and even their mood of them, or just let them do everything by themselves.</p>
+
+<a href="https://github.com/giocapeli/ChatGPTChat" target="_blank">App Repository</a>
+  </br> </br> </br> </br> </br>
 
 <img align="right" height="300px" src="https://i.ibb.co/jg6ddKm/usesmall.gif">
 <h3>
