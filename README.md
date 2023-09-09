@@ -1,7 +1,7 @@
 <h2 align="center"> 👋 Hi there, I am Giovanni!</h2>
 <a href="https://www.linkedin.com/in/giovannicapeli/" target="_blank"><p align="center" >  <img src="https://img.shields.io/badge/open to work%20-%23D69500.svg?&style=for-the-badge&logo=work&logoColor=white" /></p></a>
 <p align="center">
-  <samp>I' m a brazilian living in the Netherlands that loves photography, cooking, binge-watching Netflix series and travel planning. I see myself as a creative and self-driven developer ready to accept new challenges and contribute to build up and bring to life amazing projects and ideas!
+  <samp>I'm a Brazilian living in the Netherlands who loves photography, cooking, binge-watching Netflix series, and travel planning. I see myself as a creative and self-driven developer ready to accept new challenges and contribute to building up and bringing to life amazing projects and ideas!
   </samp>
   <br>
 </p>
@@ -26,6 +26,8 @@
 </p>
  <h3 align="center"> 💪 Familiar and aiming to improve tools: 💪</h3>
 <p align="center">
+     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript%20-%232B5DE1.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react native%20-%2300AEFF.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL%20-%23CD00D6.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
